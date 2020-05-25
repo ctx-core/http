@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/http",
-	"version": "3.2.32",
+	"version": "3.2.33",
 	"description": "ctx-core http",
 	"type": "module",
 	"main": "lib.js",
@@ -30,7 +30,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/object": "^8.0.12"
+		"@ctx-core/object": "^8.0.13"
 	},
 	"devDependencies": {
 		"typescript": "^3.9.3"
