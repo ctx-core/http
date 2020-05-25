@@ -2,6 +2,7 @@
 	"name": "@ctx-core/http",
 	"version": "3.2.30",
 	"description": "ctx-core http",
+	"type": "module",
 	"main": "lib.js",
 	"module": "lib.js",
 	"types": "lib.ts",
