@@ -2,7 +2,6 @@
 	"name": "@ctx-core/http",
 	"version": "3.2.62",
 	"description": "ctx-core http",
-	"type": "module",
 	"main": "./index.js",
 	"module": "./index.js",
 	"types": "./index.ts",
@@ -10,7 +9,8 @@
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "tsc -b",
-		"prepublishOnly": "npm run compile"
+		"prepublishOnly": "npm run compile",
+		"exec": "$@"
 	},
 	"repository": {
 		"type": "git",
@@ -35,5 +35,5 @@
 	"devDependencies": {
 		"typescript": "^4.0.2"
 	},
-	"gitHead": "8bab9ac7f71effb355a7fa48adf9cd330368fe49"
+	"gitHead": "ea337407ca99082428d83a9c1a41fd75362c0456"
 }
