@@ -1,39 +1,39 @@
 {
-	"name": "@ctx-core/http",
-	"version": "3.2.63",
-	"description": "ctx-core http",
-	"keywords": [
-		"ctx-core",
-		"http"
-	],
-	"homepage": "https://github.com/ctx-core/http#readme",
-	"bugs": {
-		"url": "https://github.com/ctx-core/http/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/http/issues"
-	},
-	"license": "Apache-2.0",
-	"author": "Brian Takita",
-	"main": "./index.js",
-	"module": "./index.js",
-	"types": "./index.ts",
-	"scripts": {
-		"build": "npm run clean && npm run compile",
-		"clean": "rm -f tsconfig.tsbuildinfo",
-		"compile": "tsc -b",
-		"exec": "$@",
-		"prepublishOnly": "npm run compile"
-	},
-	"dependencies": {
-		"@ctx-core/object": "workspace:*"
-	},
-	"devDependencies": {
-		"typescript": "^4.0.2"
-	},
-	"publishConfig": {
-		"access": "public"
-	},
-	"gitHead": "ea337407ca99082428d83a9c1a41fd75362c0456"
+  "name": "@ctx-core/http",
+  "version": "3.2.64",
+  "description": "ctx-core http",
+  "keywords": [
+    "ctx-core",
+    "http"
+  ],
+  "homepage": "https://github.com/ctx-core/http#readme",
+  "bugs": {
+    "url": "https://github.com/ctx-core/http/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctx-core/http/issues"
+  },
+  "license": "Apache-2.0",
+  "author": "Brian Takita",
+  "main": "./index.js",
+  "module": "./index.js",
+  "types": "./index.ts",
+  "scripts": {
+    "build": "npm run clean && npm run compile",
+    "clean": "rm -f tsconfig.tsbuildinfo",
+    "compile": "tsc -b",
+    "exec": "$@",
+    "prepublishOnly": "npm run compile"
+  },
+  "dependencies": {
+    "@ctx-core/object": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "ea337407ca99082428d83a9c1a41fd75362c0456"
 }
