@@ -1,5 +1,13 @@
 # @ctx-core/http
 
+## 4.0.1
+
+### Patch Changes
+
+- fix: install issues: using explicit workspace: versioning
+- Updated dependencies [undefined]
+  - @ctx-core/object@12.0.1
+
 ## 4.0.0
 
 ### Major Changes
