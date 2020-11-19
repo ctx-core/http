@@ -1,5 +1,13 @@
 # @ctx-core/http
 
+## 4.0.17
+
+### Patch Changes
+
+- typescript: ^4.0.5 -> ^4.1.2
+- Updated dependencies [undefined]
+  - @ctx-core/object@13.0.2
+
 ## 4.0.16
 
 ### Patch Changes
