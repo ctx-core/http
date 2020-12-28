@@ -1,5 +1,13 @@
 # @ctx-core/http
 
+## 4.1.0
+
+### Minor Changes
+
+- throw_internal_server_error as throw\_\_internal_server_error
+- assign_http_headers as assign**headers**http
+- \_send_302 as \_send\_\_302
+
 ## 4.0.31
 
 ### Patch Changes
