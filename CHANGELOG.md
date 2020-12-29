@@ -1,5 +1,11 @@
 # @ctx-core/http
 
+## 4.1.2
+
+### Patch Changes
+
+- @ctx-core/object@15.0.12
+
 ## 4.1.1
 
 ### Patch Changes
