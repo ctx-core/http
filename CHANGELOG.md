@@ -1,5 +1,12 @@
 # @ctx-core/http
 
+## 4.1.8
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@16.0.1
+
 ## 4.1.7
 
 ### Patch Changes
