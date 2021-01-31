@@ -1,5 +1,12 @@
 # @ctx-core/http
 
+## 4.2.0
+
+### Minor Changes
+
+- \_CacheControl_1hour_headers,\_CacheControl_5min_headers,\_ContentType_json_headers,\_ContentType_svg_headers
+- src directory
+
 ## 4.1.13
 
 ### Patch Changes
