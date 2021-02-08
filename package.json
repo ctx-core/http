@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/http",
-	"version": "4.2.4",
+	"version": "4.2.5",
 	"description": "ctx-core http",
 	"keywords": [
 		"ctx-core",
@@ -27,7 +27,7 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/object": "workspace:^17.0.2"
+		"@ctx-core/object": "workspace:^17.0.3"
 	},
 	"devDependencies": {
 		"@types/express": "^4.17.11",
