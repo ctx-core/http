@@ -1,5 +1,13 @@
 # @ctx-core/http
 
+## 4.2.21
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.4.1
+
 ## 4.2.20
 
 ### Patch Changes
