@@ -1,5 +1,13 @@
 # @ctx-core/http
 
+## 4.2.22
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.4.2
+
 ## 4.2.21
 
 ### Patch Changes
