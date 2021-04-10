@@ -1,5 +1,11 @@
 # @ctx-core/http
 
+## 4.2.26
+
+### Patch Changes
+
+- update dependencies
+
 ## 4.2.25
 
 ### Patch Changes
