@@ -1,5 +1,11 @@
 # @ctx-core/http
 
+## 4.2.38
+
+### Patch Changes
+
+- update dependencies
+
 ## 4.2.37
 
 ### Patch Changes
