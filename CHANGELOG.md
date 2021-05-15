@@ -1,5 +1,16 @@
 # @ctx-core/http
 
+## 4.3.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.6.0
+
 ## 4.2.39
 
 ### Patch Changes
