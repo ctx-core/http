@@ -1,5 +1,16 @@
 # @ctx-core/http
 
+## 4.4.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@18.1.0
+
 ## 4.3.10
 
 ### Patch Changes
