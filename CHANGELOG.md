@@ -1,5 +1,16 @@
 # @ctx-core/http
 
+## 4.5.0
+
+### Minor Changes
+
+- fix tsc build directory issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@18.2.0
+
 ## 4.4.1
 
 ### Patch Changes
