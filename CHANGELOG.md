@@ -1,5 +1,11 @@
 # @ctx-core/http
 
+## 4.5.1
+
+### Patch Changes
+
+- @types/express: ^4.17.11 -> ^4.17.12
+
 ## 4.5.0
 
 ### Minor Changes
