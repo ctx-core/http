@@ -1,5 +1,18 @@
 # @ctx-core/http
 
+## 5.0.0
+
+### Major Changes
+
+- \$ suffix for stores
+- \_ suffix for factory functions
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/object@19.0.0
+
 ## 4.5.2
 
 ### Patch Changes
