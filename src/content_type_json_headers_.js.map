@@ -1,0 +1,1 @@
+{"version":3,"file":"content_type_json_headers_.js","sourceRoot":"","sources":["../content_type_json_headers_.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,kBAAkB,CAAA;AACzC,MAAM,UAAU,yBAAyB;IACxC,OAAO,MAAM,CAAC,EAAE,cAAc,EAAE,kBAAkB,EAAE,EAAE,GAAG,SAAS,CAAC,CAAA;AACpE,CAAC;AACD,OAAO,EACN,yBAAyB,IAAI,yBAAyB,EACtD,yBAAyB,IAAI,kBAAkB,GAC/C,CAAA"}
