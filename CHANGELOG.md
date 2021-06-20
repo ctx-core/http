@@ -1,5 +1,13 @@
 # @ctx-core/http
 
+## 6.0.5
+
+### Patch Changes
+
+- "prepare": "npm run clean && npm run compile"
+- Updated dependencies [undefined]
+  - @ctx-core/object@20.0.6
+
 ## 6.0.4
 
 ### Patch Changes
