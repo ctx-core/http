@@ -1,5 +1,11 @@
 # @ctx-core/http
 
+## 6.0.15
+
+### Patch Changes
+
+- @types/express: ^4.17.12 -> ^4.17.13
+
 ## 6.0.14
 
 ### Patch Changes
