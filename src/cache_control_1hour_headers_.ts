@@ -1,5 +1,5 @@
 import { assign } from '@ctx-core/object'
-export function CacheControl_1hour_headers_() {
+export function CacheControl_1hour_headers_():Record<string, string> {
 	return assign({ 'Cache-Control': 'public, max-age=3600' }, ...arguments)
 }
 export {

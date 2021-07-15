@@ -1,6 +1,6 @@
 import type { Response } from 'express'
 // { headers: { 'Cache-Control': 'public, max-age=3600' } } append
-export function send_302_(res: Response) {
+export function send_302_(res: Response):void {
 	res.writeHead(302, { Location: '/auth/password/reset' })
 	res.end('')
 }
