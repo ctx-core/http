@@ -1,5 +1,13 @@
 # @ctx-core/http
 
+## 7.0.2
+
+### Patch Changes
+
+- fix: "type": "module"
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.2
+
 ## 7.0.1
 
 ### Patch Changes

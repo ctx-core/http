@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/http",
-	"version": "7.0.1",
+	"version": "7.0.2",
 	"description": "ctx-core http",
 	"keywords": [
 		"ctx-core",
@@ -16,6 +16,7 @@
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
+	"type": "module",
 	"main": "./dist/index.js",
 	"module": "./dist/index.js",
 	"types": "./dist/index.d.ts",
@@ -27,7 +28,7 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/object": "workspace:^21.0.1"
+		"@ctx-core/object": "workspace:^21.0.2"
 	},
 	"devDependencies": {
 		"@types/express": "^4.17.13",
