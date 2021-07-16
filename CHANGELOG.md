@@ -1,5 +1,13 @@
 # @ctx-core/http
 
+## 7.0.9
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.8
+
 ## 7.0.8
 
 ### Patch Changes
