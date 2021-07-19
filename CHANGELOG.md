@@ -1,5 +1,13 @@
 # @ctx-core/http
 
+## 7.0.13
+
+### Patch Changes
+
+- fix: "exports": "./package.json": "./package.json"
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.12
+
 ## 7.0.12
 
 ### Patch Changes
