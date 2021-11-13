@@ -1,5 +1,17 @@
 # @ctx-core/http
 
+## 9.0.0
+
+### Major Changes
+
+- - send*302*
+
+## 8.0.0
+
+### Major Changes
+
+- BREAKING CHANGE: - send*302*: - express dependency
+
 ## 7.0.18
 
 ### Patch Changes
