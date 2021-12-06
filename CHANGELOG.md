@@ -1,5 +1,11 @@
 # @ctx-core/http
 
+## 9.0.9
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+
 ## 9.0.8
 
 ### Patch Changes
