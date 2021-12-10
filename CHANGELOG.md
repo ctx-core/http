@@ -1,5 +1,14 @@
 # @ctx-core/http
 
+## 9.0.10
+
+### Patch Changes
+
+- package.json: - module
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/object@22.0.0
+
 ## 9.0.9
 
 ### Patch Changes
