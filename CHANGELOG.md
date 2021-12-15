@@ -1,5 +1,13 @@
 # @ctx-core/http
 
+## 9.0.11
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+- Updated dependencies
+  - @ctx-core/object@22.0.1
+
 ## 9.0.10
 
 ### Patch Changes
