@@ -1,5 +1,13 @@
 # @ctx-core/http
 
+## 9.0.12
+
+### Patch Changes
+
+- fix: package.json: exports
+- Updated dependencies
+  - @ctx-core/object@22.0.2
+
 ## 9.0.11
 
 ### Patch Changes

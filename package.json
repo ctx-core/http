@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/http",
-	"version": "9.0.11",
+	"version": "9.0.12",
 	"description": "ctx-core http",
 	"keywords": [
 		"ctx-core",
@@ -12,15 +12,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ctx-core/http/issues"
+		"url": "https://github.com/ctx-core/http.git"
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
 	"exports": {
 		".": {
-			"types": "./src/index.ts",
-			"import": "./dist/index.js"
+			"import": "./dist/index.js",
+			"types": "./src/index.ts"
 		},
 		"./package.json": "./package.json"
 	},
@@ -32,7 +32,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/object": "workspace:^22.0.1"
+		"@ctx-core/object": "workspace:^22.0.2"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
