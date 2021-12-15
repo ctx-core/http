@@ -1,5 +1,13 @@
 # @ctx-core/http
 
+## 9.0.13
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/object@22.0.3
+
 ## 9.0.12
 
 ### Patch Changes
