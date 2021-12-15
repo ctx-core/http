@@ -1,5 +1,13 @@
 # @ctx-core/http
 
+## 9.0.14
+
+### Patch Changes
+
+- \*.d.ts export
+- Updated dependencies
+  - @ctx-core/object@22.0.4
+
 ## 9.0.13
 
 ### Patch Changes
