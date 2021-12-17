@@ -1,5 +1,13 @@
 # @ctx-core/http
 
+## 9.0.15
+
+### Patch Changes
+
+- fix: build
+- Updated dependencies
+  - @ctx-core/object@22.0.5
+
 ## 9.0.14
 
 ### Patch Changes
