@@ -1,5 +1,11 @@
 # @ctx-core/http
 
+## 9.0.19
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 9.0.18
 
 ### Patch Changes
