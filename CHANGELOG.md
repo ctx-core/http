@@ -1,5 +1,13 @@
 # @ctx-core/http
 
+## 9.0.21
+
+### Patch Changes
+
+- @swc/core: ^1.2.125 -> ^1.2.127
+- Updated dependencies
+  - @ctx-core/object@22.0.11
+
 ## 9.0.20
 
 ### Patch Changes
