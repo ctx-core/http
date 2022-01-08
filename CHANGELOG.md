@@ -1,5 +1,13 @@
 # @ctx-core/http
 
+## 9.0.22
+
+### Patch Changes
+
+- sideEffects = false
+- Updated dependencies
+  - @ctx-core/object@22.0.12
+
 ## 9.0.21
 
 ### Patch Changes
