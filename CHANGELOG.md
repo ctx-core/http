@@ -1,5 +1,13 @@
 # @ctx-core/http
 
+## 9.0.28
+
+### Patch Changes
+
+- @ctx-core/function: 20.7.1
+- Updated dependencies
+  - @ctx-core/object@22.1.8
+
 ## 9.0.27
 
 ### Patch Changes
