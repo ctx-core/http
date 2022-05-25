@@ -1,5 +1,11 @@
 # @ctx-core/http
 
+## 9.0.31
+
+### Patch Changes
+
+- @ctx-core/object: 22.2.0
+
 ## 9.0.30
 
 ### Patch Changes
