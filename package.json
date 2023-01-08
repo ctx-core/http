@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/http",
-	"version": "9.0.37",
+	"version": "9.0.38",
 	"description": "ctx-core http",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/object": "^22.9.1"
+		"@ctx-core/object": "^22.10.0"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.59",
