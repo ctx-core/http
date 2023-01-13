@@ -1,5 +1,11 @@
 # @ctx-core/http
 
+## 9.0.42
+
+### Patch Changes
+
+- rimraf: ^3.0.2 -> ^4.0.1
+
 ## 9.0.41
 
 ### Patch Changes
