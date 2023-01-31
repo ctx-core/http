@@ -1,5 +1,13 @@
 # @ctx-core/http
 
+## 9.0.46
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/object@24.1.1
+
 ## 9.0.45
 
 ### Patch Changes
