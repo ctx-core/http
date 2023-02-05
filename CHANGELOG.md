@@ -1,5 +1,11 @@
 # @ctx-core/http
 
+## 9.1.0
+
+### Minor Changes
+
+- - ext_r_mime
+
 ## 9.0.48
 
 ### Patch Changes
