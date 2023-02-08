@@ -1,6 +1,8 @@
 import { assign } from '@ctx-core/object'
-export function ContentType_json_headers_():Record<string, string> {
-	return assign({ 'Content-Type': 'application/json' }, ...arguments)
+export function ContentType_json_headers_() {
+	return assign({
+		'Content-Type': 'application/json'
+	}, ...arguments)
 }
 export {
 	ContentType_json_headers_ as _ContentType_json_headers,

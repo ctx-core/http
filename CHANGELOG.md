@@ -1,5 +1,16 @@
 # @ctx-core/http
 
+## 9.2.0
+
+### Minor Changes
+
+- rename functions with alias:
+
+  http**headers**assign as assign_http_headers
+  internal_server_error\_\_throw as throw_internal_server_error
+
+- extract _.js & _.d.ts into directories
+
 ## 9.1.2
 
 ### Patch Changes

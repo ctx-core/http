@@ -76,5 +76,5 @@ export const ext_r_mime = Object.freeze({
 	'.zip': 'application/zip',
 	'.3gp': 'video/3gpp',
 	'.3g2': 'video/3gpp2',
-	'.7z': 'application/x-7z-compressed',
+	'.7z': 'application/x-7z-compressed'
 })
