@@ -1,5 +1,11 @@
 # @ctx-core/http
 
+## 9.2.1
+
+### Patch Changes
+
+- fix: types entry
+
 ## 9.2.0
 
 ### Minor Changes
