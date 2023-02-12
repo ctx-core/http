@@ -4,6 +4,6 @@ const is_binary__regex =
  * @param ContentType{string}
  * @return {boolean}
  */
-export default function ContentType__is_binary_(ContentType) {
+export function ContentType__is_binary_(ContentType) {
 	return is_binary__regex.test(ContentType)
 }

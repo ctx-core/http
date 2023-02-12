@@ -1,5 +1,11 @@
 # @ctx-core/http
 
+## 9.3.1
+
+### Patch Changes
+
+- ContentType\__is_binary_: fix: export
+
 ## 9.3.0
 
 ### Minor Changes

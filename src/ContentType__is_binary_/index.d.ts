@@ -1,1 +1,1 @@
-export default function ContentType__is_binary_(ContentType:string):boolean
+export function ContentType__is_binary_(ContentType:string):boolean
