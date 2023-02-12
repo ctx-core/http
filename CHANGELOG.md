@@ -1,5 +1,20 @@
 # @ctx-core/http
 
+## 9.3.0
+
+### Minor Changes
+
+- - ContentType\__is_binary_
+
+### Patch Changes
+
+- fix: type exports:
+
+  CacheControl*1hour_headers*
+  CacheControl*5min_headers*
+  ContentType*json_headers*
+  ContentType*svg_headers*
+
 ## 9.2.1
 
 ### Patch Changes
