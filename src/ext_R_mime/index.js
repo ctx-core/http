@@ -1,5 +1,5 @@
 // source: https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types
-export const ext_r_mime = Object.freeze({
+export const ext_R_mime = Object.freeze({
 	'.aac': 'audio/aac',
 	'.abw': 'application/x-abiword',
 	'.arc': 'application/x-freearc',
@@ -78,3 +78,9 @@ export const ext_r_mime = Object.freeze({
 	'.3g2': 'video/3gpp2',
 	'.7z': 'application/x-7z-compressed'
 })
+export {
+	ext_R_mime as extname_R_mime,
+	ext_R_mime as ext_r_mime,
+	ext_R_mime as ext_R_ContentType,
+	ext_R_mime as extname_R_ContentType,
+}

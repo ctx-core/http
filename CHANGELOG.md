@@ -1,5 +1,16 @@
 # @ctx-core/http
 
+## 9.4.0
+
+### Minor Changes
+
+- - ext_R_mime: aliases:
+
+    - extname_R_mime
+    - ext_r_mime
+    - ext_R_ContentType
+    - extname_R_ContentType
+
 ## 9.3.1
 
 ### Patch Changes

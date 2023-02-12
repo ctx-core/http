@@ -1,4 +1,4 @@
-export declare const ext_r_mime:Readonly<{
+export declare const ext_R_mime:Readonly<{
 	[key:string]:string
 	'.aac':'audio/aac'
 	'.abw':'application/x-abiword'
@@ -78,3 +78,9 @@ export declare const ext_r_mime:Readonly<{
 	'.3g2':'video/3gpp2'
 	'.7z':'application/x-7z-compressed'
 }>
+export {
+	ext_R_mime as extname_R_mime,
+	ext_R_mime as ext_r_mime,
+	ext_R_mime as ext_R_ContentType,
+	ext_R_mime as extname_R_ContentType,
+}
