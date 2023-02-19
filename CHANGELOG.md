@@ -1,5 +1,11 @@
 # @ctx-core/http
 
+## 9.4.3
+
+### Patch Changes
+
+- fix: `throw new Error(error_message)` instead of `throw error_message`
+
 ## 9.4.2
 
 ### Patch Changes
