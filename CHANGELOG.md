@@ -1,5 +1,13 @@
 # @ctx-core/http
 
+## 9.4.49
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+- Updated dependencies
+  - @ctx-core/object@27.4.23
+
 ## 9.4.48
 
 ### Patch Changes
