@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/http",
-	"version": "9.4.72",
+	"version": "9.5.0",
 	"description": "ctx-core http",
 	"keywords": [
 		"ctx-core",
@@ -17,10 +17,20 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.d.ts",
-	"svelte": "./src/index.js",
+	"files": [
+		"*.d.ts",
+		"./CacheControl_1hour_headers_",
+		"./CacheControl_5min_headers_",
+		"./ContentType__is_binary_",
+		"./ContentType_json_headers_",
+		"./ContentType_svg_headers_",
+		"./ext_R_mime",
+		"./http__headers__assign",
+		"./internal_server_error__throw"
+	],
+	"types": "./index.d.ts",
 	"exports": {
-		".": "./src/index.js",
+		".": "./index.js",
 		"./package.json": "./package.json"
 	},
 	"scripts": {
@@ -33,7 +43,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/object": "^30.0.0"
+		"@ctx-core/object": "^30.1.0"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
