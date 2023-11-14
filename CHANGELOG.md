@@ -1,5 +1,13 @@
 # @ctx-core/http
 
+## 9.5.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - @ctx-core/object@30.1.3
+
 ## 9.5.2
 
 ### Patch Changes
