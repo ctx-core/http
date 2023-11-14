@@ -1,5 +1,13 @@
 # @ctx-core/http
 
+## 9.5.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/object@30.1.2
+
 ## 9.5.1
 
 ### Patch Changes
