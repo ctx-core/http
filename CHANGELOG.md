@@ -1,5 +1,14 @@
 # @ctx-core/http
 
+## 9.5.8
+
+### Patch Changes
+
+- tsx: ^4.1.2 -> ^4.1.3
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/object@30.4.1
+
 ## 9.5.7
 
 ### Patch Changes
