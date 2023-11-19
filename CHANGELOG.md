@@ -1,5 +1,17 @@
 # @ctx-core/http
 
+## 9.5.16
+
+### Patch Changes
+
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/object@31.0.0
+
 ## 9.5.15
 
 ### Patch Changes
