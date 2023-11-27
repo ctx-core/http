@@ -1,5 +1,11 @@
 # @ctx-core/http
 
+## 9.5.31
+
+### Patch Changes
+
+- @ctx-core/object: ^31.1.12 -> ^31.1.13
+
 ## 9.5.30
 
 ### Patch Changes
