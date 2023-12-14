@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/http",
-	"version": "9.5.50",
+	"version": "9.5.51",
 	"description": "ctx-core http",
 	"keywords": [
 		"ctx-core",
@@ -20,15 +20,7 @@
 	"files": [
 		"*.d.ts",
 		"*.js",
-		"*.json",
-		"./CacheControl_1hour_headers_",
-		"./CacheControl_5min_headers_",
-		"./ContentType__is_binary_",
-		"./ContentType_json_headers_",
-		"./ContentType_svg_headers_",
-		"./ext_R_mime",
-		"./http__headers__assign",
-		"./internal_server_error__throw"
+		"*.json"
 	],
 	"types": "./index.d.ts",
 	"exports": {
@@ -45,7 +37,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/object": "^31.1.32"
+		"ctx-core": "^4.19.0"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
