@@ -1,5 +1,11 @@
 # @ctx-core/http
 
+## 9.5.139
+
+### Patch Changes
+
+- ctx-core: ^6.4.2 -> ^6.4.3
+
 ## 9.5.138
 
 ### Patch Changes
