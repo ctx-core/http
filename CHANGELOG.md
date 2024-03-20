@@ -1,5 +1,13 @@
 # @ctx-core/http
 
+## 9.5.155
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 9.5.154
 
 ### Patch Changes
