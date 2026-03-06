@@ -1,5 +1,13 @@
 # @ctx-core/http
 
+## 9.5.206
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+- Updated dependencies
+  - ctx-core@7.2.34
+
 ## 9.5.205
 
 ### Patch Changes
